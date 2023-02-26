@@ -154,7 +154,7 @@ nav .main-menu li:hover {
   nav .menu-button-container {
     visibility: visible;
     margin-top: 1.7rem;
-    margin-left: 60%;
+    margin-left: 40%;
     display: flex;
   }
   nav .main-menu {
