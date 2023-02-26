@@ -317,7 +317,7 @@ nav .main-menu li:hover {
 
 .Sobre-mi {
   display: block;
-  background: rgb(85, 56, 33);
+  background: hsla(27, 44%, 23%, 0.098);
   background-image: url(../MULTIMEDIA/yo.jpg);
   flex-wrap: wrap;
   background-repeat: no-repeat;
