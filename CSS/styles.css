@@ -317,7 +317,7 @@ nav .main-menu li:hover {
 
 .Sobre-mi {
   display: block;
-  background: hsla(27, 44%, 23%, 0.098);
+  background: #a8a8a850;
   background-image: url(../MULTIMEDIA/yo.jpg);
   flex-wrap: wrap;
   background-repeat: no-repeat;
@@ -340,10 +340,10 @@ nav .main-menu li:hover {
     font-size: large;
   }
   .Sobre-mi p {
-    font-size: 0.8rem;
+    font-size: 3vw;
   }
   .Sobre-mi #p-margen {
-    font-size: 0.8rem;
+    font-size: 3vw;
     padding-right: 20%;
   }
 }
