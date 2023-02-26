@@ -330,7 +330,7 @@ nav .main-menu li:hover {
 @media (max-width: 900px) {
   .Sobre-mi {
     padding-right: 20%;
-    padding-bottom:3rem;
+    padding-bottom:2rem;
   }
 }
 @media (max-width: 700px) {
