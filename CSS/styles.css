@@ -216,16 +216,11 @@ nav .main-menu li:hover {
   align-self: center;
   background-size: 100% auto;
   font-family: "Dancing Script", cursive;
-  font-size: 4vw;
+  font-size: 3rem;
   font-weight: 800;
   color: #3d5570;
 }
-@media (max-width: 700px) {
-  .Home video {
-    width: 100%;
-    position: static;
-  }
-}
+
 
 .Propuestas {
   padding: 3rem 2rem;
