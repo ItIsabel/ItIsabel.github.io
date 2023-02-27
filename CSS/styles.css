@@ -343,14 +343,20 @@ nav .main-menu li:hover {
 @media (max-width: 360px) {
   .Sobre-mi {
     background-image: url(../MULTIMEDIA/Captura.PNG);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
   }
   .Sobre-mi p {
-    margin-right: 5%;
+    margin: 5%;
+  }
+  .Sobre-mi #p-margen {
+    margin-right: 45%;
   }
 }
 
 .Contacto {
-  padding: 3vw;
+  padding: 2rem;
   background-color: #563821;
   display: flex;
   flex-direction: column;
@@ -367,6 +373,7 @@ nav .main-menu li:hover {
   color: #C99655;
   font-size: larger;
   margin: 3px;
+}
 }
 
 /*# sourceMappingURL=styles.css.map */
