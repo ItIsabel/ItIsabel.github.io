@@ -319,7 +319,7 @@ nav .main-menu li:hover {
 .Sobre-mi {
   display: block;
   background: hsla(27, 24%, 65%, 0.644);
-  background-image: url(../MULTIMEDIA/yo.jpg);
+  background-image: url(MULTIMEDIA/yo.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -347,7 +347,7 @@ nav .main-menu li:hover {
 }
 @media (max-width: 360px) {
   .Sobre-mi {
-    background-image: url(../MULTIMEDIA/Captura.PNG);
+    background-image: url(MULTIMEDIA/Captura.PNG);
   }
   .Sobre-mi p {
     margin-right: 5%;
